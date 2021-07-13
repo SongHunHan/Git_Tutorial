@@ -1,8 +1,24 @@
 # Git markdown 확인
 
-- markdown 확인 repo입니다.
-1. #기능확인
-2. -기능확인
+- #### markdown 확인 repo입니다.
+
+- table 
+
+|#기능확인   |-기능확인   |
+|--|--|
+|1. #기능확인|2. -기능확인|
+
+- code block
+```cpp
+print(torch.__version__)
+print(hello)
+```
+```py
+print(torch.__version__)
+print(hello)
+```
+
+print(torch.__version__)
 
 -> [Docker hub](https://hub.docker.com/) <-
 
