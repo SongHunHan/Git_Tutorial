@@ -4,9 +4,9 @@
 
 - table 
 
-|#기능확인   |-기능확인   |
+|# 기능확인   |- 기능확인   |
 |--|--|
-|[1. #기능확인](https://github.com/SongHunHan)|[2. -기능확인](https://github.com/SongHunHan)|
+|1. [#기능확인](https://github.com/SongHunHan)|2. [-기능확인](https://github.com/SongHunHan)|
 
 - code block
 ```cpp
