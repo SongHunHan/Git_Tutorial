@@ -26,12 +26,10 @@ print(torch.__version__)
 
 ![coding](https://user-images.githubusercontent.com/65228530/125380687-8f7bfb00-e3cd-11eb-9855-6c5fccbf83e4.gif)
 
-
 ### <귀여운 고양이>
 
 ![download](https://user-images.githubusercontent.com/65228530/125380164-b84fc080-e3cc-11eb-9ebb-94b243a85c6f.jpeg)
 
-![images](https://lh3.googleusercontent.com/proxy/rbDujXotPc3AniX-Vmx6K4fuIUM22gAgy2G4otFJZdgF4B4SPoT8vkMEjK9GRZMtc_2LB8trrL0QeIH7cvockH-VqcSgVDZ6Jak93WXCLau9nbgIEg)
 
 ### <고양이 알림장>
 
